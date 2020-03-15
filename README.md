@@ -1,6 +1,6 @@
 # Conversor de Moedas
 
-Conversor de moedas feito no Flutter
+Conversor de moedas feito em Flutter
 
 ## Getting Started
 
